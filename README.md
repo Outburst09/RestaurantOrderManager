@@ -18,8 +18,8 @@ A Java-based restaurant ordering system designed to help small restaurants manag
    ```bash
    git clone https://github.com/Outburst09/RestaurantOrderManager.git
 
-   ## 📂 Project Structure
-
+ ##  Project Structure
+ ```
 RestaurantOrderManager/
 ├── src/
 │ ├── FoodItem.java
@@ -33,6 +33,7 @@ RestaurantOrderManager/
 ├── orders.txt
 ├── error_log.txt
 └── .idea/
+```
 
 ##  Future Improvements
 
@@ -42,6 +43,6 @@ RestaurantOrderManager/
 - Build a web-based version
 - Export receipts as PDF
 
-## 📘 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
