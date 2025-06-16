@@ -41,3 +41,7 @@ RestaurantOrderManager/
 - Add user roles (admin vs staff)
 - Build a web-based version
 - Export receipts as PDF
+
+## 📘 License
+
+This project is licensed under the [MIT License](LICENSE).
