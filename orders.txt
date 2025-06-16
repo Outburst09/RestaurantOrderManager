@@ -1,0 +1,88 @@
+Cheeseburger,6.99
+Total: $8.74
+--
+ORDER SUMMARY
+- Onion Rings ($3.00, 330 cal)
+- Onion Rings ($3.00, 330 cal)
+- Onion Rings ($3.00, 330 cal)
+- Onion Rings ($3.00, 330 cal)
+
+Subtotal: $12.00
+Tax (10%): $1.20
+Tip (15.0%): $1.80
+Total: $15.00
+Total Calories: 1320 cal
+--
+
+ORDER SUMMARY
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Soda ($1.50, 150 cal)
+- Soda ($1.50, 150 cal)
+- Soda ($1.50, 150 cal)
+- Onion Rings ($3.00, 330 cal)
+- Onion Rings ($3.00, 330 cal)
+- Onion Rings ($3.00, 330 cal)
+- Onion Rings ($3.00, 330 cal)
+
+Subtotal: $86.40
+Tax (10%): $8.64
+Tip (500.0%): $432.00
+Total: $527.04
+Total Calories: 6770 cal
+--
+
+ORDER SUMMARY
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+
+Subtotal: $83.88
+Tax (10%): $8.39
+Tip (12.0%): $10.07
+Total: $102.33
+Total Calories: 6000 cal
+--
+
+ORDER SUMMARY
+- Chicken Sandwich ($5.50, 450 cal)
+
+Subtotal: $5.50
+Tax (10%): $0.55
+Tip (5.0%): $0.28
+Total: $6.33
+Total Calories: 450 cal
+--
+
+ORDER SUMMARY
+- Cheeseburger ($6.99, 500 cal)
+- Cheeseburger ($6.99, 500 cal)
+- Iced Tea ($1.75, 120 cal)
+- Iced Tea ($1.75, 120 cal)
+- Iced Tea ($1.75, 120 cal)
+- Iced Tea ($1.75, 120 cal)
+
+Subtotal: $20.98
+Tax (10%): $2.10
+Tip (5.0%): $1.05
+Total: $24.13
+Total Calories: 1480 cal
+--
+

@@ -1,0 +1,14 @@
+CATEGORY: Main
+Cheeseburger,6.99,500
+Pizza Slice,3.75,400
+Chicken Sandwich,5.50,450
+
+CATEGORY: Drinks
+Soda,1.50,150
+Milkshake,4.00,600
+Iced Tea,1.75,120
+
+CATEGORY: Sides
+Onion Rings,3.00,330
+Salad,3.25,180
+Fries,2.99,350
