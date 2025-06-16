@@ -2,7 +2,7 @@
 
 A Java-based restaurant ordering system designed to help small restaurants manage their menu and process customer orders using a simple file-based backend.
 
-## 📦 Features
+##  Features
 
 - Menu management via `menu.txt`
 - Order logging to `orders.txt`
@@ -12,7 +12,7 @@ A Java-based restaurant ordering system designed to help small restaurants manag
   - `MenuManager`, `RestaurantSystem`
 - Console-based interaction (ideal for early prototypes)
 
-## 🧪 How to Run
+##  How to Run
 
 1. Clone the repository:
    ```bash
@@ -34,7 +34,7 @@ RestaurantOrderManager/
 ├── error_log.txt
 └── .idea/
 
-## 🌱 Future Improvements
+##  Future Improvements
 
 - Add a graphical user interface (JavaFX or Swing)
 - Save orders to a database (SQLite or MySQL)
